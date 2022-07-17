@@ -23,8 +23,7 @@
       "required": false
     },
     "SESSION_STRING": {
-      "description": "Session string from https://docs.pyrogram.org/api/methods/export_session_string#pyrogram.Client.export_session_string",
-      "required": false
+      "description": "Session string from https://docs.pyrogram.org/api/methods/export_session_string#pyrogram.Client.export_session_string"
     }
   }
 }
